@@ -24,3 +24,5 @@ This project is a simple implementation of the classic Simon Says memory game, d
 2. Open `index.html` in a web browser
 3. Press any key to start the game
 
+## 🌐 Live Demo
+https://0308vivek.github.io/Simon-Says-Game/
